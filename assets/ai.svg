@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.958" height="15.231" viewBox="0 0 26.958 15.231">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-1,.cls-2{stroke:#958e9d;stroke-width:.5px}.cls-2,.cls-7{fill:none}.cls-6{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_3747" transform="translate(-2393.042 -292.904)">
+        <g id="Group_3745" transform="translate(6)">
+            <g id="Group_3739" transform="translate(2388.042 303.104)">
+                <g id="Group_3734" transform="translate(0 1.564)">
+                    <g id="Ellipse_10" class="cls-1" transform="translate(-1)">
+                        <circle cx="1.733" cy="1.733" r="1.733" class="cls-6"/>
+                        <circle cx="1.733" cy="1.733" r="1.483" class="cls-7"/>
+                    </g>
+                </g>
+                <path id="Path_56" d="M2227.9-1092.148l1.658-2.337h3" class="cls-2" transform="translate(-2225.863 1094.485)"/>
+            </g>
+            <g id="Group_3744" transform="translate(2387.042 293.104)">
+                <g id="Group_3734-2">
+                    <g id="Ellipse_10-2" class="cls-1">
+                        <circle cx="1.733" cy="1.733" r="1.733" class="cls-6"/>
+                        <circle cx="1.733" cy="1.733" r="1.483" class="cls-7"/>
+                    </g>
+                </g>
+                <path id="Path_56-2" d="M2227.9-1094.485l1.658 2.337h3" class="cls-2" transform="translate(-2224.863 1097.178)"/>
+            </g>
+            <g id="Group_3743" transform="translate(-35 -4)">
+                <g id="Group_3740" transform="translate(2422.108 302.95)">
+                    <g id="Ellipse_10-3" class="cls-1">
+                        <circle cx="1.713" cy="1.713" r="1.713" class="cls-6"/>
+                        <circle cx="1.713" cy="1.713" r="1.463" class="cls-7"/>
+                    </g>
+                </g>
+                <path id="Path_57" d="M.271 0h4.66" class="cls-2" transform="translate(2424.936 304.766)"/>
+            </g>
+        </g>
+        <path id="Fill_1" fill="#0076d1" d="M3.743.216A1.383 1.383 0 0 0 2.37.152L.888.9A1.618 1.618 0 0 0 0 2.356V8.19a1.622 1.622 0 0 0 .888 1.457l1.481.747a1.372 1.372 0 0 0 .631.153 1.4 1.4 0 0 0 .743-.216 1.429 1.429 0 0 0 .669-1.218V1.435A1.432 1.432 0 0 0 3.743.216" opacity="0.4" transform="translate(2415.588 295.13)"/>
+        <path id="Fill_3" fill="#0079bf" d="M9.905 15H4.113A3.91 3.91 0 0 1 0 10.939V4.061A3.91 3.91 0 0 1 4.113 0h5.792a3.91 3.91 0 0 1 4.113 4.061v6.878A3.91 3.91 0 0 1 9.905 15" transform="translate(2400 292.904)"/>
+        <text id="AI" fill="#fff"  font-size="10px" font-weight="600" transform="translate(2402 304)">
+            <tspan x="0" y="0">AI</tspan>
+        </text>
+    </g>
+</svg>
+<!-- font-family="Poppins-SemiBold, Poppins" -->
